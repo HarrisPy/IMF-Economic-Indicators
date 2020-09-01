@@ -7,5 +7,3 @@ Data is taken from the IMF's World Economic Outlook (WEO) dataset. For more than
 
 This helps countries strengthen their economy and create more jobs. It also helps countries make progress towards the Sustainable Development Goals.
 
-## Observvations
-The purpose is to look at (pre-covid) how the economic policy and stated growth targets of the Indian governent has 'reduced the gap' to China as the world's largest developing economy. Contemporary estimates put India 10 - 15 behind China in its growth cycle and previous work has presented data on the key indicators making this apparent [1]. This project build upon this work and presents new analysis on the topic
